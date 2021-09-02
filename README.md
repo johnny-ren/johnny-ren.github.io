@@ -19,6 +19,7 @@
 ### Research & Design
 #### International Society for Magnetic Resonance in Medicine, 2019
 - [Functional Connectome Fingerprinting using Recurrent Neural Networks Does Not Depend on the Temporal Structure of the Data](https://index.mirasmart.com/ISMRM2019/PDFfiles/3856.html)
+
 #### Visual Design
 - [Logo designs](https://jren707.wixsite.com/johnnyren/post/loco-for-logos)
 - [Icon designs](https://jren707.wixsite.com/johnnyren/post/_icon)
