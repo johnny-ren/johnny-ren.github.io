@@ -10,7 +10,7 @@ my role: contributed original writing with input from wsj editors
 - [Andrew Yang is wrong: Asian Americans do not have to prove their “American-ness”](https://www.browndailyherald.com/2020/04/07/ren-23-andrew-yang-wrong-asian-americans-not-prove-american-ness/)
 - [Why not take a math class?](https://www.browndailyherald.com/2020/02/19/ren-23-not-take-math-class/)
 - [The kids are alright](https://www.browndailyherald.com/2019/12/06/ren-23-kids-alright/)
-- and [more](https://www.browndailyherald.com/author/johnnyren/)
+- and [more](https://www.browndailyherald.com/staff/johnnyren)
 
 my role: contributed original writing with input from bdh editors
 
@@ -18,7 +18,7 @@ my role: contributed original writing with input from bdh editors
 - [Voices still Unheard](https://www.browndailyherald.com/2020/11/02/editorial-voices-still-unheard/)
 - [Brown, be kind](https://www.browndailyherald.com/2021/03/05/brown-be-kind/)
 - [Accessibility in a post-pandemic world](https://www.browndailyherald.com/2021/04/06/editorial-accessibility-in-a-post-pandemic-world/)
-- and [more](https://www.browndailyherald.com/author/editorialpageboard/)
+- and [more](https://www.browndailyherald.com/section/editorials)
 
 my role: wrote collaboratively with other editorial page board members/edited pieces for style, grammar, and structure
 
